@@ -8,7 +8,17 @@ C'est un jeu très simple. Vous êtes disposés de 3 mondes. Vous pouvez en choi
 
 ![Capture d'écran de l'écran d'accueil](images/img_002.png)
 
-Un petit monde en 32x16 caractères, entouré d'un cadre de dièses (#) avec des collisions, incassables.
+Chaque monde est fait de 32x16 caractères, entouré d'un cadre de dièses (`#`) incassables. Les contrôles sont :
+- Z : monter
+- Q : aller à gauche
+- D : aller à droite
+- S : reculer
+- F : poser un bloc (`#`)
+- R : détruire un bloc (`#`)
+
+
+
+
 
 
 
