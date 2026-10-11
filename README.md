@@ -21,7 +21,8 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
       - **GLM** : ~ 3,5 mois d'expérience - fonctions mathématiques comme `glm::mat*();`, `glm::translate();`, `glm::scale();`, `glm::rotate();`
       - **Assimp** : ~2 mois d'expérience - importation de modèles 3D, triangulation des faces
 - **Lua et Roblox Studio** : Environ 3 ans d'expérience en création de scripts Lua et de développement sur Roblox Studio. Ces derniers temps, je n'y touche plus trop à cause des modifications régulières de l'interface, ou parfois même, du fonctionnement du code. Mais ces outils m'ont permis de d'apprendre et construire au-delà des bases d'un jeu vidéo.
-- **Modélisation 3D - Blender et Blockbench** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui offre des possibilités plus avancées en matière de modélisation et de rendu. En ce moment, je recrée mon collège sur Blender, en prenant des notes sur un petit cahier, notamment pour les mesures et pour avoir un schéma que je peux utiliser comme référence pour faire un modèle à partir de cette image.
+- **Modélisation 3D - Blender et Blockbench** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui offre des possibilités plus avancées en matière de modélisation et de rendu.
+  Mon projet actuel consiste à reproduire intégralement mon collège en 3D. Je prends des mesures et je réalise des croquis sur papier afin de disposer de références pour construire mes modèles.
   - **Mes connaissances sur Blender** :
       - insertion d'objets, modification des transformations, maîtrise de l'`Object mode`
       - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect`, `spin`, `edge slide`, etc.
