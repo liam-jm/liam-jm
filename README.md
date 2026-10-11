@@ -30,7 +30,7 @@ Dans le dépôt intitulé **liam-jm**, vous pourrez trouver une sélection de me
       - insertion d'objets, modification des transformations, maîtrise de l'`Object mode`
       - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect`, `spin`, `edge slide`, etc.
       - éclairage basique, `light linking`
-      - rendus : `Cycles engine`, positionnement de la caméra, optimisations pour accélérer la vitesse de rendu, utilisation du GPU
+      - rendus : `Cycles engine`, positionnement de la caméra, optimisations pour accélérer la vitesse de rendu comme réduire le nombre d'échantillons utilisés, utiliser le GPU, réduire le nombre de rebonds de rayons de lumière, etc.
 
 
 <!--
