@@ -4,7 +4,7 @@ C'est un de mes premiers projets en C++. Un jeu entièrement fonctionnel dans un
 
 ![Capture d'écran de l'écran d'accueil](images/img_001.png)
 
-C'est un jeu très simple. Vous êtes disposés de 3 mondes. Vous pouvez en choisir un en appuyant sur `SPACE`, déplacer le curseur de sélection avec les flèches gauches ou droites du clavier (`<-`/`->`) et supprimer/réinitialiser un monde en appuyant 5 fois sur `ESC`. Ces mondes sont d'ailleurs rangés dans des fichiers en `.txt`, situés dans le dossier `saves`, et `world_0` représente le monde par défaut.
+C'est un jeu très simple. Vous disposez de 3 mondes. Vous pouvez en choisir un en appuyant sur `SPACE`, déplacer le curseur de sélection avec les flèches gauches ou droites du clavier (`<-`/`->`) et supprimer/réinitialiser un monde en appuyant 5 fois sur `ESC`. Ces mondes sont d'ailleurs rangés dans des fichiers en `.txt`, situés dans le dossier `saves`, et `world_0` représente le monde par défaut.
 
 ![Capture d'écran d'un monde](images/img_002.png)
 
@@ -28,5 +28,5 @@ Et vous pouvez donc casser des blocs, sauf les barrières de dièses (`#`) verte
 
 ![Capture d'écran d'une légende, montrant le fonctionnement de la destruction des blocs](images/img_005.png)
 
-Chaque action sauvegarde votre monde entier dans le fichier `.txt` correspondant au monde. Donc votre ne monde ne se supprimera pas tout seul.
+Chaque action sauvegarde votre monde entier dans le fichier `.txt` correspondant au monde. Donc votre monde ne se supprimera pas tout seul.
 Certaines actions ont étés abandonnées comme l'inventaire ou les ennemis, même si ça aurait été intéressant à voir.
