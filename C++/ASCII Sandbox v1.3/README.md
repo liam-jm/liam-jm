@@ -18,7 +18,7 @@ Chaque monde est fait de 32x16 caractères, entouré d'un cadre de dièses (`#`)
 
 ![Capture d'écran d'un monde avec des blocs posés par le joueur](images/img_003.png)
 
-Chaque action actualise l'écran entier, donc si vous essayez de scroller vers le haut, vous verrez toutes vos actions précédentes.
+Chaque action actualise l'écran intégralement, donc si vous essayez de scroller vers le haut, vous verrez toutes vos actions précédentes.
 
 Le jeu s'appelle ASCII Sandbox car il utilise des caractères ASCII dans un monde sandbox, un monde où la limite est la créativité du joueur.
 
