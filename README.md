@@ -10,10 +10,6 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
 
 - **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de débogage...
 - **C++** : J'apprends le C++ depuis environ un an. Je m'intéresse notamment à son utilisation dans le développement de jeux vidéo et à la gestion de la mémoire.
-
-  Pourquoi ai-je choisi ce langage de programmation ?
-
-  C'est parce que trouve que c'est un bon milieu entre la gestion manuelle de la mémoire et le développement des jeux vidéos.
   
   - **Mes connaissances en C++** :
     - `variables`, `declaration keywords`, `functions`, `if/else statements`, `C-style arrays`, `standard library (std)`, `standard library includes (iostream, string, vector, memory, utility...)`, `pointers`, `smart pointers (std::weak_ptr, std::shared_ptr, std::unique_ptr)` et la majorité des bases
