@@ -1,5 +1,7 @@
 ## Une sélection de mes créations sur Blender
 
+J'ai intégralement réalisé tous les modèles ci-dessous.
+
 ![Timelapse banc.mp4](Timelapse%20banc.mp4)
 
 ![Comparaison d'un rendu de mon collège (incomplet).pdf](Comparaison%20d'un%20rendu%20de%20mon%20collège%20(incomplet).pdf)
