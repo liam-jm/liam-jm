@@ -9,7 +9,7 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
 ### Mes compétences :
 
 - **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de débogage...
-- **C++** : Environ 1 an d'expérience.
+- **C++** : J'apprends le C++ depuis environ un an. Je m'intéresse notamment à son utilisation dans le développement de jeux vidéo et à la gestion de la mémoire.
 
   Pourquoi ai-je choisi ce langage de programmation ?
 
@@ -17,15 +17,15 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
   
   - **Mes connaissances en C++** :
     - `variables`, `declaration keywords`, `functions`, `if/else statements`, `C-style arrays`, `standard library (std)`, `standard library includes (iostream, string, vector, memory, utility...)`, `pointers`, `smart pointers (std::weak_ptr, std::shared_ptr, std::unique_ptr)` et la majorité des bases
-    - `classes`, `OOP` _(object-oriented-programming)_, `constructors`/`destructors`, `inheritance` et un peu de `polymorphism`
+    - `classes`, `OOP` _(object-oriented-programming)_, `constructors`/`destructors`, `inheritance` et un premières notions de `polymorphism`
     - APIs/bibliothèques graphiques :
       - **OpenGL 3.3** : ~4 mois d'expérience - `vertex buffers`, `vertex arrays`, `element buffers`, `shaders`, `textures`
       - **GLFW** : ~4 mois d'expérience - fonctions basiques de chargement de fenêtre comme `glfwCreateWindow();` ou `glfwWindowHint();`
       - **stb_image** : ~3,5 mois d'expérience - chargement d'images de tout format avec des fonctions comme `stbi_load();`
       - **GLM** : ~ 3,5 mois d'expérience - fonctions mathématiques comme `glm::mat*();`, `glm::translate();`, `glm::scale();`, `glm::rotate();`
       - **Assimp** : ~2 mois d'expérience - importation de modèles 3D, triangulation des faces
-- **Lua/Roblox Studio** : Environ 3 ans d'expérience dans les deux domaines. Ces derniers temps, je n'y touche plus trop à cause des modifications régulières de l'interface, ou parfois même, du fonctionnement du code.
-- **Blender** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui est bien plus puissant comme programme de 3D. En ce moment, je recrée mon collège sur Blender, en prenant des notes sur un petit cahier, notamment pour les mesures et pour avoir un schéma que je peux utiliser comme référence pour faire un modèle à partir de cette image.
+- **Lua et Roblox Studio** : Environ 3 ans d'expérience en création de scripts Lua et de développement sur Roblox Studio. Ces derniers temps, je n'y touche plus trop à cause des modifications régulières de l'interface, ou parfois même, du fonctionnement du code. Mais ces outils m'ont permis de d'apprendre et construire au-delà des bases d'un jeu vidéo.
+- **Modélisation 3D : Blender et Blockbench** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui offre des possibilités plus avancées en matière de modélisation et de rendu. En ce moment, je recrée mon collège sur Blender, en prenant des notes sur un petit cahier, notamment pour les mesures et pour avoir un schéma que je peux utiliser comme référence pour faire un modèle à partir de cette image.
   - **Mes connaissances sur Blender** :
       - insertion d'objets, modification des transformations, maîtrise de l'`Object mode`
       - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect`, `spin`, `edge slide`, etc.
