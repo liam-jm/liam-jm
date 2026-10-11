@@ -29,4 +29,4 @@ Et vous pouvez donc casser des blocs, sauf les barrières de dièses (`#`) verte
 ![Capture d'écran d'une légende, montrant le fonctionnement de la destruction des blocs](images/img_005.png)
 
 Chaque action sauvegarde votre monde entier dans le fichier `.txt` correspondant au monde. Donc votre monde ne se supprimera pas tout seul.
-Certaines actions ont étés abandonnées comme l'inventaire ou les ennemis, même si ça aurait été intéressant à voir.
+Certaines idées ont étés abandonnées comme l'inventaire ou les ennemis, même si ça aurait été intéressant à voir.
