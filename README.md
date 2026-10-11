@@ -2,7 +2,7 @@
 
 ### Bonjour et bienvenue sur mon GitHub,
 
-Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manière dont fonctionnent les jeux vidéos. Je débute GitHub
+Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manière dont fonctionnent les jeux vidéos. Je débute GitHub et je mettrais une grande partie de mes créations ici, à partir de maintenant.
 
 Dans le dépôt intitulé **liam-jm**, vous pourrez trouver une sélection de mes créations.
 
