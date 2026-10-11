@@ -26,7 +26,7 @@ Dans le dépôt intitulé **liam-jm**, vous pourrez trouver une sélection de me
       - **Assimp** : ~2 mois d'expérience - importation de modèles 3D, triangulation des faces
 - **Lua/Roblox Studio** : Environ 3 ans d'expérience dans les deux domaines. Ces derniers temps, je n'y touche plus trop à cause des mises-à-jour qui faisaient fonctionner mon code différemment ou des produits payants m'empêchant de faire certaines choses. Mais c'était un très beau départ pour le développement de jeux-vidéos.
 - **Blender** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui est bien plus puissant comme programme de 3D. En ce moment, je recrée mon collège sur Blender, en prenant des notes sur un petit cahier, notamment pour les mesures et pour avoir un schéma que je peux utiliser comme référence pour faire un modèle à partir de cette image.
-  - **Mes connaissances en Blender** :
+  - **Mes connaissances sur Blender** :
       - insertion d'objets, modification des transformations, maîtrise de l'`Object mode`
       - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect`, `spin`, `edge slide`, etc.
       - éclairage basique, `light linking`
