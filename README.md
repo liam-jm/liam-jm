@@ -3,8 +3,9 @@
 ### Bonjour !
 
 Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manière dont fonctionnent les jeux-vidéos.
+Dans le dépôt intitulé **liam-jm**, vous pourrez trouvez une sélection de mes créations
 
-### Mes talents :
+### Mes compétences :
 
 - **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de débogage...
 - **C++** : Environ 1 an d'expérience. Pourquoi ai-je choisi ce langage de programmation ? C'est parce que trouve que c'est un bon milieu entre la gestion manuelle de la mémoire et le développement des jeux-vidéos, et aussi parce que je trouve que ce n'est pas un langage de programmation très difficile.
