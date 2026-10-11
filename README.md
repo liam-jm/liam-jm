@@ -3,14 +3,15 @@
 ### Bonjour !
 
 Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manière dont fonctionnent les jeux-vidéos.
-Dans le dépôt intitulé **liam-jm**, vous pourrez trouvez une sélection de mes créations
+
+Dans le dépôt intitulé **liam-jm**, vous pourrez trouver une sélection de mes créations.
 
 ### Mes compétences :
 
 - **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de débogage...
 - **C++** : Environ 1 an d'expérience. Pourquoi ai-je choisi ce langage de programmation ? C'est parce que trouve que c'est un bon milieu entre la gestion manuelle de la mémoire et le développement des jeux-vidéos, et aussi parce que je trouve que ce n'est pas un langage de programmation très difficile.
   
-  - #### Mes connaissances :
+  - ### Mes connaissances :
     - `variables`, `declaration keywords`, `functions`, `if/else statements`, `C-style arrays`, `standard library (std)`, `standard library includes (iostream, string, vector, memory, utility...)`, `pointers`, `smart pointers (std::weak_ptr, std::shared_ptr, std::unique_ptr)` et la majorité des bases
     - `classes`, `OOP` _(object-oriented-programming)_, `constructors`/`destructors`, `inheritance` et un peu de `polymorphism`
     - APIs/bibliothèques graphiques :
@@ -21,7 +22,7 @@ Dans le dépôt intitulé **liam-jm**, vous pourrez trouvez une sélection de me
       - **Assimp** : ~2 mois d'expérience - importation de modèles 3D, triangulation des faces
 - **Lua/Roblox Studio** : Environ 3 ans d'expérience dans les deux domaines. Ces derniers temps, je n'y touche plus trop à cause des mises-à-jour qui faisaient fonctionner mon code différemment ou des produits payants m'empêchant de faire certaines choses. Mais c'était un très beau départ pour le développement de jeux-vidéos.
 - **Blender** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui est bien plus puissant comme programme de 3D. En ce moment, je recrée mon collège sur Blender, en prenant des notes sur un petit cahier, notamment pour les mesures et pour avoir un schéma que je peux utiliser comme référence pour faire un modèle à partir de cette image.
-  - #### Mes connaissances :
+  - ### Mes connaissances :
       - insertion d'objets, modification des transformations, maîtrise de l'`Object mode`
       - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect`, `spin`, `edge slide`, etc.
       - éclairage basique, `light linking`
