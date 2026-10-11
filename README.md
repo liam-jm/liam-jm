@@ -1,6 +1,6 @@
 ## Portfolio personnel - Mes projets (C++, Visual Studio, Visual Studio Code, Blender, Roblox Studio, Lua)
 
-### Bonjour et bienvenue sur mon GitHub,
+### Bonjour et bienvenue sur mon GitHub.
 
 Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manière dont fonctionnent les jeux vidéos. Je débute GitHub et je mettrais une grande partie de mes créations ici, à partir de maintenant.
 
