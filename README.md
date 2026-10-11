@@ -14,7 +14,7 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
   - **Mes connaissances en C++** :
     - `variables`, `declaration keywords`, `functions`, `if/else statements`, `C-style arrays`, `standard library (std)`, `standard library includes (iostream, string, vector, memory, utility...)`, `pointers`, `smart pointers (std::weak_ptr, std::shared_ptr, std::unique_ptr)` et la majorité des bases
     - `classes`, `OOP` _(object-oriented-programming)_, `constructors`/`destructors`, `inheritance` et un premières notions de `polymorphism`
-    - APIs/bibliothèques graphiques :
+    - bibliothèques/outils graphiques :
       - **OpenGL 3.3** : ~4 mois d'expérience - `vertex buffers`, `vertex arrays`, `element buffers`, `shaders`, `textures`
       - **GLFW** : ~4 mois d'expérience - fonctions basiques de chargement de fenêtre comme `glfwCreateWindow();` ou `glfwWindowHint();`
       - **stb_image** : ~3,5 mois d'expérience - chargement d'images de tout format avec des fonctions comme `stbi_load();`
