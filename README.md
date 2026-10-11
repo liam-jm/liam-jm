@@ -9,7 +9,7 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
 ### Mes compétences :
 
 - **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de débogage...
-- **C++** : J'apprends le C++ depuis environ un an. Je m'intéresse notamment à son utilisation dans le développement de jeux vidéo et à la gestion de la mémoire.
+- **C++** : J'ai choisi le C++ parce qu'il représente, à mes yeux, un bon compromis entre le contrôle de la gestion de la mémoire et les possibilités qu'il offre pour le développement de jeux vidéo.
   
   - **Mes connaissances en C++** :
     - `variables`, `declaration keywords`, `functions`, `if/else statements`, `C-style arrays`, `standard library (std)`, `standard library includes (iostream, string, vector, memory, utility...)`, `pointers`, `smart pointers (std::weak_ptr, std::shared_ptr, std::unique_ptr)` et la majorité des bases
