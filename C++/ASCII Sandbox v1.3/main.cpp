@@ -447,17 +447,6 @@ int main() {
    };
 
    /*
-      Developer console commands list:
-
-      help -> list of all commands
-      heal -> sets health to 5/5
-      speed <float> -> set speed to value (1 is default, 3 is max)
-      tp <x> <y> -> teleport to world coordinates unless area is blocked
-      tp ~<x> ~<y> -> teleport to local coordinates unless area is blocked
-      spawn -> teleport to spawn (x=32, y=8) unless it is blocked
-   */
-
-   /*
       "###############################################################",
       "#                                                             #",
       "#    ██ ▄▄  ▄▄ ▄▄ ▄▄ ▄▄▄▄▄ ▄▄  ▄▄ ▄▄▄▄▄▄ ▄▄▄  ▄▄▄▄  ▄▄ ▄▄     #",
@@ -515,7 +504,7 @@ int main() {
             menu_ui[10].replace(29, 22, 22, ' ');
          }
          if (key==0 || key==224) { // arrow key detection
-            key = _getch(); // important fact: second _getch(); call returns arrow keycode
+            key = _getch(); // important: second _getch(); returns arrow keycode
             
             // keycodes: 72=up, 80=down, 77=right, 75=left
 
