@@ -1,4 +1,4 @@
-## Une sélection des mes créations sur Roblox Studio
+## Une sélection de mes créations sur Roblox Studio
 
 J'ai :
 - créé chaque modèle 3D visible
