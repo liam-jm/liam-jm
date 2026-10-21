@@ -28,4 +28,4 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
       - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect`, `spin`, `edge slide`, etc.
       - utilisation de l'onglet "Shading" pour créer mes propres matériaux procéduraux avec des `nodes`
       - éclairage basique, `light linking`
-      - rendus : `Cycles engine`, texture baking, positionnement de la caméra, optimisations pour accélérer la vitesse de rendu comme réduire le nombre d'échantillons utilisés, utiliser le GPU, réduire le nombre de rebonds de rayons de lumière, etc.
+      - rendus : `Cycles engine`, `texture baking`, positionnement de la caméra, optimisations pour accélérer la vitesse de rendu comme réduire le nombre d'échantillons utilisés, utiliser le GPU, réduire le nombre de rebonds de rayons de lumière, etc.
