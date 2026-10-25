@@ -8,6 +8,8 @@ J'ai intégralement réalisé tous les modèles ci-dessous.
 
 ![chaises + table 1.png](chaises%20+%20table%201.png)
 
+![geometry nodes mur à taille adaptive.png](geometry%20nodes%20mur%20à%20taille%20adaptive.png)
+
 ![matériaux procéduraux 1.png](matériaux%20procéduraux%201.png)
 
 ![matériaux procéduraux 2.png](matériaux%20procéduraux%202.png)
@@ -21,4 +23,3 @@ J'ai intégralement réalisé tous les modèles ci-dessous.
 ![modèle horloge.png](modèle%20horloge.png)
 
 ![feuille_A4 (matériau non procedural).png](feuille_A4%20(matériau%20non%20procédural).png)
-
