@@ -8,7 +8,7 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
 
 ### Mes compétences :
 
-- **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de débogage...
+- **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de débogage, compilation, code machine, etc.
 - **C++** : J'ai choisi le C++ parce qu'il représente, à mes yeux, un bon compromis entre le contrôle de la gestion de la mémoire et les possibilités qu'il offre pour le développement de jeux vidéo.
   
   - **Mes connaissances en C++** :
