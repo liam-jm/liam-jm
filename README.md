@@ -13,13 +13,21 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
   
   - **Mes connaissances en C++** :
     - `variables`, `declaration keywords`, `functions`, `if/else statements`, `C-style arrays`, `standard library (std)`, `standard library includes (iostream, string, vector, memory, utility...)`, `pointers`, `smart pointers (std::weak_ptr, std::shared_ptr, std::unique_ptr)` et la majorité des bases
-    - `classes`, `OOP` _(object-oriented-programming)_, `constructors`/`destructors`, `inheritance` et un premières notions de `polymorphism`
+    - `classes`, `OOP` _(object-oriented-programming)_, `constructors`/`destructors`, `inheritance` et un premières notions de `polymorphism`, etc.
     - bibliothèques/outils graphiques :
       - **OpenGL 3.3** : ~4 mois d'expérience - `vertex buffers`, `vertex arrays`, `element buffers`, `shaders`, `textures`
       - **GLFW** : ~4 mois d'expérience - fonctions basiques de chargement de fenêtre comme `glfwCreateWindow();` ou `glfwWindowHint();`
       - **stb_image** : ~3,5 mois d'expérience - chargement d'images de tout format avec des fonctions comme `stbi_load();`
       - **GLM** : ~ 3,5 mois d'expérience - fonctions mathématiques comme `glm::mat*();`, `glm::translate();`, `glm::scale();`, `glm::rotate();`
       - **Assimp** : ~2 mois d'expérience - importation de modèles 3D, triangulation des faces
+- **GLSL** : J'utilise le langage de programmation GLSL pour créer des Shaders compatibles avec mon code en C++ OpenGL. Pour l'instant, je débute encore ce langage de programmation mais je connais déjà les bases.
+  - **Mes connaissances en GLSL** :
+    - fonctionnement des `vertex shaders` et `fragment shaders`
+    - données d'entrée via les mot-clé `layout` et `in`
+    - données de sortie via le mot-clé `out`
+    - autres mots-clés : `#version`, `uniform`, `normalize`, `transpose`, `inverse`, `gl_Position`, etc.
+    - types de données (`data types`) : `int`, `float`, `vec*`, `mat*`, `sampler2D`, etc.
+    - écriture de shaders simples
 - **Lua et Roblox Studio** : Environ 3 ans d'expérience en création de scripts Lua et de développement sur Roblox Studio. Ces derniers temps, je n'y touche plus trop à cause des modifications régulières de l'interface, ou parfois même, du fonctionnement du code. Mais ces outils m'ont permis de d'apprendre et construire au-delà des bases d'un jeu vidéo.
 - **Modélisation 3D - Blender et Blockbench** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui offre des possibilités bien plus avancées en matière de modélisation et de rendu.
   Mon projet actuel consiste à reproduire intégralement mon collège en 3D. Je prends des mesures et je réalise des croquis sur papier afin de disposer de références pour construire mes modèles.
