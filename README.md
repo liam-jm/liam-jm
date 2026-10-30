@@ -20,7 +20,7 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
       - **stb_image** : ~3,5 mois d'expérience - chargement d'images de tout format avec des fonctions comme `stbi_load();`
       - **GLM** : ~ 3,5 mois d'expérience - fonctions mathématiques comme `glm::mat*();`, `glm::translate();`, `glm::scale();`, `glm::rotate();`
       - **Assimp** : ~2 mois d'expérience - importation de modèles 3D, triangulation des faces
-- **GLSL** : J'utilise le langage de programmation GLSL pour créer des Shaders compatibles avec mon code en C++ OpenGL. Pour l'instant, je débute encore ce langage de programmation mais je connais déjà les bases.
+- **GLSL** : J'utilise le langage de programmation GLSL pour créer des `shaders` compatibles avec mon code en C++ OpenGL. Pour l'instant, je débute encore ce langage de programmation mais je connais déjà les bases.
   - **Mes connaissances en GLSL** :
     - fonctionnement des `vertex shaders` et `fragment shaders`
     - données d'entrée via les mot-clés `layout` et `in`
