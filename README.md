@@ -24,7 +24,7 @@ Dans le dépôt intitulé _**liam-jm**_, vous pourrez trouver une sélection de 
   - **Mes connaissances en GLSL** :
     - fonctionnement des `vertex shaders` et `fragment shaders`
     - données d'entrée via les mot-clés `layout` et `in`
-    - données de sortie via le mot-clé `out`
+    - données de sortie via le mot-clé `out` (souvent `frag_color`)
     - autres mots-clés : `#version`, `uniform`, `normalize`, `transpose`, `inverse`, `gl_Position`, etc.
     - types de données (`data types`) : `int`, `float`, `vec*`, `mat*`, `sampler2D`, etc.
     - écriture de shaders simples
